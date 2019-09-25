@@ -3,6 +3,6 @@ def square_array(array)
   
   while array[counter] do
     put pets[counter]
-    counter +=
+    counter += 1
   # your code here
 end
