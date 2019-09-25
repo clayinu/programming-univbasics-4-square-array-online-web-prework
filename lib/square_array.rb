@@ -2,7 +2,8 @@ def square_array(array)
   counter = 0 
   
   while array[counter] do
-    put pets[counter]
+    put array[counter]
     counter += 1
+  end
   # your code here
 end
